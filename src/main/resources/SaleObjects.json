@@ -1,0 +1,48 @@
+{
+  "numberOfSaleObjects": 4,
+  "saleObjects": [
+    {
+      "type": "HOUSE",
+      "id": 14,
+      "sizeSqm": "190",
+      "startingPrice": 3500000,
+      "postalAddress": {
+        "city": "Stockholm",
+        "street": "DuperStreet 5"
+      }
+    },
+    {
+      "type": "APT",
+      "id": 19992,
+      "sizeSqm": "28",
+      "startingPrice": 4805999,
+      "postalAddress": {
+        "city": "New York",
+        "street": "Crampedstreet 5",
+        "floor": 18
+      }
+    },
+    {
+      "type": "APT",
+      "id": 19995,
+      "sizeSqm": "55",
+      "startingPrice": 7805999,
+      "postalAddress": {
+        "city": "New York",
+        "street": "Crampedstreet 9A",
+        "floor": 18
+      }
+    },
+    {
+      "type": "APT",
+      "id": 5002,
+      "sizeSqm": "105",
+      "startingPrice": 3200000,
+      "postalAddress": {
+        "city": "Uppsala",
+        "street": "Universistetsgatan 104",
+        "floor": 2
+      }
+    }
+  ]
+}
