@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SaleObjects count="4">
+
+    <SaleObject type="house" id="173311">
+        <sizeSqm>300</sizeSqm>
+        <startingPrice>3.250.000</startingPrice>
+        <address>
+            <city>Helsinki</city>
+            <street>Notticompriheensiple 5</street>
+            <floor/>
+        </address>
+    </SaleObject>
+
+    <SaleObject type="apt" id="173396">
+        <sizeSqm>48</sizeSqm>
+        <startingPrice>2.999.999</startingPrice>
+        <address>
+            <city>Stockholm</city>
+            <street>Mangeladulåsgatan 1</street>
+            <floor>1</floor>
+        </address>
+    </SaleObject>
+
+    <SaleObject type="apt" id="173391">
+        <sizeSqm>150</sizeSqm>
+        <startingPrice>1625000</startingPrice>
+        <address>
+            <city>Arvidsjaur</city>
+            <street>Mygghavet 110A</street>
+            <floor>0</floor>
+        </address>
+    </SaleObject>
+
+    <SaleObject type="house" id="173404">
+        <sizeSqm>622</sizeSqm>
+        <startingPrice>39.905.000</startingPrice>
+        <address>
+            <city>Helsinki</city>
+            <street>Notticompriheensiple 5</street>
+            <floor/>
+        </address>
+    </SaleObject>
+
+</SaleObjects>
